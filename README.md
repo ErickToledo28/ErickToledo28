@@ -2,8 +2,8 @@
 
 
 
-  <a href="https://github.com/caio770">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Caio!;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+em+forma%C3%A7%C3%A3o;Aprendendo.+Desenvolvendo.+Evoluindo." alt="Animação de apresentação"/>
+  <a href="(https://github.com/ErickToledo28)">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Erick!;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+em+forma%C3%A7%C3%A3o;Aprendendo.+Desenvolvendo.+Evoluindo." alt="Animação de apresentação"/>
   </a>
 
   <br/>
