@@ -83,11 +83,11 @@ Sistema acadêmico desenhado para modelar, organizar e gerenciar o fluxo de info
 
 <div align="center">
 
-  <a href="[https://github.com/caio770](https://github.com/ErickToledo28)">
+  <a href="(https://github.com/ErickToledo28)">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="[COLOQUE_SEU_LINKEDIN](https://www.linkedin.com/in/erick-toledo-032b7342b/)">
+  <a href="(https://www.linkedin.com/in/erick-toledo-032b7342b/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
